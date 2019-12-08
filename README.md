@@ -6,6 +6,8 @@ Kurotto
 
 Built an AI solver for the puzzle using BruteForce and Recursion. It can be run by passing a valid puzzle to the code or choosing one of the grid sizes of existing valid puzzles that are eventually passed to the code and the solver will solve it for you. 
 
+You may run the solution generator file to get the desired solution.
+And solution checker file to run of your solution is correct or not
 Rules for Kurotto:
 
 Fill in (color) cells with the following rules.
