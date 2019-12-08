@@ -9,8 +9,11 @@ Built an AI solver for the puzzle using BruteForce and Recursion. It can be run 
 Rules for Kurotto:
 
 Fill in (color) cells with the following rules.
+
 The number in a circle indicates the sum of the number of continuous black cells extending from it, vertically and horizontally. 
+
 Cells cannot be extended diagonally in any direction.
+
 Cells with circles cannot be colored.
 
 
